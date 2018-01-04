@@ -1,3 +1,8 @@
+# Configurations
+"settings.json" includes configuration to override some colorizations of theme "Dark (Visual Studio)" to make it even more equal "Visual Studio 2017". To override even more colorizations, use "F1 > Developer: Inspect TM Scopes". 
+
+"workspace-typescript.json" is a handy configuration file for typescript projects, though it has to have the extension "code-workspace". 
+
 # Extensions
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 - [Toggle Exluded Files](https://marketplace.visualstudio.com/items?itemName=eamodio.toggle-excluded-files)
