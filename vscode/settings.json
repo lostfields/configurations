@@ -1,0 +1,53 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.tabSize": 4,
+    "typescript.check.tscVersion": false,
+    "window.zoomLevel": -0.3,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "workbench.iconTheme": "vscode-great-icons",
+    "material-icon-theme.showWelcomeMessage": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": "meta.return.type",
+          "settings": {
+            "foreground": "#b8d7a3"
+          }
+        },
+        {
+          "scope": "support.type.primitive",
+          "settings":{
+            "foreground": "#569cd6"
+          }
+        },
+        {
+          "scope": [ 
+            "meta.type entity.name.type"
+          ],
+          "settings": {
+            "foreground": "#b8d7a3"
+          }
+        },
+        {
+          "scope": [
+            "new.expr entity.name.type",
+            "entity.name.type.class"
+          ],
+          "settings": {
+            "foreground": "#4ec9b0"
+          }
+        },
+        {
+          "scope": [
+            "constant.language.nan",
+            "variable.other.constant"
+          ],
+          "settings": {
+            "foreground": "#DCDCAA"
+          }
+        }
+      ]
+    }
+  }
