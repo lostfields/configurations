@@ -18,9 +18,12 @@ handy configuration file for typescript projects, though it has to have the exte
 shortcut|description
 -|-
 Ctrl + Shift + o|Symbol search
-Ctrl + Shift + p|Run
 F12|Goto reference
 Ctrl + mouse|Goto reference
 Shift + F12|References
-F2|Refactoring by renaming
+CTRL + b|Close/Open sidebar
 Ctrl + .|Refactoring by extracting (mark text first)
+F2|Refactoring by renaming
+CTRL + D|Mark word
+ALT + UP/DOWN|Move line
+CTRL+ ALT + UP/DOWN|Add cursor, multiedit (alternative is ALT + MOUSECLICK)
